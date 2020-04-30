@@ -29,7 +29,7 @@ public class UserController {
     @ResponseBody
     public String index(){
 
-        return "Hello User";
+        return "Hello User1";
     }
 
 
